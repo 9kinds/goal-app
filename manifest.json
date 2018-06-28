@@ -1,0 +1,7 @@
+{
+  "name": "goalgraph",
+  "short_name": "goalgraph",
+  "description": "tracking progress towards your goal",
+  "start_url": "/",
+  "display": "standalone"
+}

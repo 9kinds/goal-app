@@ -1,0 +1,12 @@
+{
+  "name": "goalgraph",
+  "description": "tracking progress towards goal",
+  "dependencies": {
+    "@polymer/polymer": "^3.0.0",
+    "chart.js": "^2.7.2"
+  },
+  "devDependencies": {
+    "@webcomponents/webcomponentsjs": "^2.0.0",
+    "wct-browser-legacy": "^1.0.0"
+  }
+}
