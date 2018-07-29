@@ -2,6 +2,7 @@
   "name": "goalgraph",
   "description": "tracking progress towards goal",
   "dependencies": {
+    "@polymer/app-storage": "^3.0.0-pre.21",
     "@polymer/polymer": "^3.0.0",
     "chart.js": "^2.7.2"
   },
